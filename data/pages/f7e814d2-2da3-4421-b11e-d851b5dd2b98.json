@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-12-15T19:19:50.211Z",
+  "created_by": "raymondhyser",
+  "title": "Test video for Kara",
+  "slug": "test-video-for-kara",
+  "updated_at": "2025-12-15T19:19:50.211Z",
+  "updated_by": "raymondhyser",
+  "parent": "d29c8acc-b60b-4bdc-9fbd-63a1a5607bd3",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "f7ad63ba-1027-401d-b4d8-d54d383727d5"
+  }
+}
